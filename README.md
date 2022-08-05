@@ -1,4 +1,4 @@
-![gh-actions badge](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![gh-actions badge](https://github.com/scottford-io/gh-actions-docker-ghcr/actions/workflows/build-push.yml/badge.svg)
 
 # Python Flask App Demo
 
