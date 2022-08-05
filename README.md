@@ -1,3 +1,5 @@
+![gh-actions badge](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
 # Python Flask App Demo
 
 This repository contains a `Dockerfile` which builds a simple Python Flask app. The application is borrowed from the [Get Started with Docker Compose](https://docs.docker.com/compose/gettingstarted/) tutorial from Docker. Additionally, the repository contains a `docker-compose.yml`, and a `Jenkinsfile`for demonstration purposes.
