@@ -33,7 +33,7 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            user/app:latest
-            user/app:1.0.0
+            scottford-io/python-flask-app:latest
+            scottford-io/python-flask-app:1.0.0
             ghcr.io/scottford-io/python-flask-app:latest
             ghcr.io/scottford-io/python-flask-app:1.0.0
